@@ -3,7 +3,9 @@ pPXF Jupyter Examples
 
 **Full Spectrum and SED Fitting of Galactic and Stellar Spectra**
 
-.. image:: http://www-astro.physics.ox.ac.uk/~cappellari/software/ppxf_logo.png
+.. image:: http://www-astro.physics.ox.ac.uk/~cappellari/software/ppxf_logo.svg
+    :target: https://www-astro.physics.ox.ac.uk/~cappellari/software/#ppxf
+    :width: 100
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/micappe/ppxf_examples/main
 .. image:: https://img.shields.io/pypi/v/ppxf.svg
