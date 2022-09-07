@@ -1,6 +1,6 @@
 numpy == 1.21.5
 matplotlib == 3.5.1
-ppxf == 8.1.0
+ppxf == 8.2.1
 astropy == 4.3.1
 vorbin == 3.1.5
 ipympl ==  0.8.8
