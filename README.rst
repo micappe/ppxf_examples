@@ -10,16 +10,16 @@ pPXF Jupyter Examples
  :target: https://mybinder.org/v2/gh/micappe/ppxf_examples/main
 .. image:: https://img.shields.io/pypi/v/ppxf.svg
     :target: https://pypi.org/project/ppxf/
-.. image:: https://img.shields.io/badge/arXiv-1607.08538-orange.svg
-    :target: https://arxiv.org/abs/1607.08538
-.. image:: https://img.shields.io/badge/DOI-10.1093/mnras/stw3020-green.svg
-    :target: https://doi.org/10.1093/mnras/stw3020
+.. image:: https://img.shields.io/badge/arXiv-2208.14974-orange.svg
+    :target: https://arxiv.org/abs/2208.14974
+.. image:: https://img.shields.io/badge/DOI-10.1093/mnras/stad2597-green.svg
+    :target: https://doi.org/10.1093/mnras/stad2597
 
 Usage examples in `Jupyter Notebook <https://jupyter.org/>`_ for the procedure
 ``pPXF`` originally described in `Cappellari & Emsellem (2004) <http://adsabs.harvard.edu/abs/2004PASP..116..138C>`_,
 substantially upgraded in `Cappellari (2017) <http://adsabs.harvard.edu/abs/2017MNRAS.466..798C>`_
 and with the inclusion of photometry and linear constraints in
-`Cappellari (2022) <https://ui.adsabs.harvard.edu/abs/2022arXiv220814974C>`_.
+`Cappellari (2023) <https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3273C>`_.
 
 
 ``pPXF`` extracts the galaxy stellar and gas kinematics, stellar population and
@@ -33,24 +33,26 @@ local computer.
 Documentation
 -------------
 
-Read the ``pPXF`` documentation `HERE <https://pypi.org/project/ppxf/>`_
+Read the full ``pPXF`` documentation `HERE <https://pypi.org/project/ppxf/>`_
 
 Attribution
 -----------
 
 If you use this software for your research, please cite at least
-`Cappellari (2022) <https://ui.adsabs.harvard.edu/abs/2022arXiv220814974C>`_,
-or additionally some of the ``pPXF`` papers above. The BibTeX entry for the
+`Cappellari (2023) <https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3273C>`_,
+or additionally some of the ``pPXF`` papers given in the documentation. The BibTeX entry for the
 paper is::
 
-    @ARTICLE{Cappellari2022,
+    @ARTICLE{Cappellari2023,
         author = {{Cappellari}, M.},
-        title = "{Full spectrum fitting with photometry in ppxf: non-parametric
-            star formation history, metallicity and the quenching boundary from
-            3200 LEGA-C galaxies at redshift $z\approx0.8$}",
-        journal = {MNRAS submitted},
+        title = "{Full spectrum fitting with photometry in PPXF: stellar population
+            versus dynamical masses, non-parametric star formation history and
+            metallicity for 3200 LEGA-C galaxies at redshift $z\approx0.8$}",
+        journal = {MNRAS},
         eprint = {2208.14974},
-        year = 2022,
-        doi = {10.48550/arXiv.2208.14974}
+        year = 2023,
+        volume = 526,
+        pages = {3273-3300},
+        doi = {10.1093/mnras/stad2597}
     }
 
