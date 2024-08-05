@@ -1,7 +1,7 @@
-numpy == 1.26.4
-matplotlib == 3.8.4
-ppxf == 9.3.0
-astropy == 6.0.1
+numpy == 2.0.1
+matplotlib == 3.9.1
+ppxf == 9.4.1
+astropy == 6.1.2
 vorbin == 3.1.5
 cvxopt == 1.3.2
 plotbin == 3.1.7
