@@ -3,8 +3,8 @@ pPXF Jupyter Examples
 
 **pPXF: Full Spectrum Fitting with Photometry for Stars and Galaxies**
 
-.. image:: http://www-astro.physics.ox.ac.uk/~cappellari/software/ppxf_logo.svg
-    :target: https://www-astro.physics.ox.ac.uk/~cappellari/software/#ppxf
+.. image:: https://users.physics.ox.ac.uk/~cappellari/images/ppxf-logo.svg
+    :target: https://users.physics.ox.ac.uk/~cappellari/software/#sec:ppxf
     :width: 100
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/micappe/ppxf_examples/main
