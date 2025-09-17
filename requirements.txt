@@ -1,8 +1,8 @@
-numpy == 2.3.2
-matplotlib == 3.10.3
-ppxf == 9.4.2
-astropy == 6.1.2
-powerbin == 1.0.4
-cvxopt == 1.3.2
-plotbin == 3.1.8
+numpy ~= 2.3
+matplotlib ~= 3.10
+ppxf ~= 9.4
+astropy ~= 6.1
+powerbin ~= 1.0
+cvxopt ~= 1.3
+plotbin ~= 3.1
 
